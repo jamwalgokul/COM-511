@@ -1,0 +1,25 @@
+var_int=42
+var_float=3.14159
+var_string="Hello world!"
+var_list=[1,2,3,4,5]
+var_dict={"name":"Alice","age":30}
+var_bod=True
+print("Variable var_int is of type :",type(var_int))
+print("Variable var_float is of type :",type(var_float))
+print("Variable var_string is of type :",type(var_string))
+print("Variable var_ list is of type:", type (var_list))
+Print("Variable var_bool is of type:", type (var_bool ))
+abs_value=abs(-5)
+Print("Absolute value of -5 is: " abs-value). 
+str_length=len(var_string)
+list_length=len (var_list)
+Print ("length of var_string:", str-length)
+print("length of var_list:", list-length).
+min_value = min (var_list)
+print("Minimum value in var_list:",min-value)
+rounded_value=round(var_float,2)
+print("Rounded value of var_float:",rounded_value)
+alphanumeric_string="Hello123"
+non-alphanumeric_string="Hello@123"
+print("Is alphanumeric_string alphanumeric?",alphanumeric_string.isalnum())
+print("Is non-alphanumeric_string alphanumeric?",non-alphanumeric_string.isalnum())
