@@ -1,0 +1,9 @@
+Fruits=["apple", " banana"," "Cherry", "date"].
+Print ("Iterating over a list:")
+for fruit in fruits:
+Print (fruit)
+Student-score ={"Alice": 95, "Bob": 89, "Charlie":78, David": 92}.
+Print ("\n Iterating oven a dictionary: ")
+
+for name,score in  student_score. items():
+Print (f"{name}:{score}").
